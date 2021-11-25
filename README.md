@@ -1,6 +1,6 @@
-### Hi there 👋
+## Electronic engineering student :man_student:
 
-<br><img width="350vw" src="https://github.com/ivolis/github-stats/blob/master/generated/languages.svg" align="right" style="margin: 0 1em 1em 0">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivolis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ivolis/ivolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
