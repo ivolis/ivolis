@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivolis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br><img width="350vw" src="https://github.com/ivolis/github-stats/blob/master/generated/languages.svg" align="right" style="margin: 0 1em 1em 0">
 
 <!--
 **ivolis/ivolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
