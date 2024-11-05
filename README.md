@@ -1,4 +1,4 @@
-## Electronic engineering student :man_student:
+## Electronic engineering :man_student:
 
 <!--
 **ivolis/ivolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
